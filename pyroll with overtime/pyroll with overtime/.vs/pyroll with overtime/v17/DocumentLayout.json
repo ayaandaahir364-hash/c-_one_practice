@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\pyroll with overtime\\pyroll with overtime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44DECA-223E-4D55-8070-E4DCE79C54A2}|pyroll with overtime\\pyroll with overtime.csproj|c:\\users\\pc\\documents\\pyroll with overtime\\pyroll with overtime\\pyroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44DECA-223E-4D55-8070-E4DCE79C54A2}|pyroll with overtime\\pyroll with overtime.csproj|solutionrelative:pyroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44DECA-223E-4D55-8070-E4DCE79C54A2}|pyroll with overtime\\pyroll with overtime.csproj|c:\\users\\pc\\documents\\pyroll with overtime\\pyroll with overtime\\pyroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A44DECA-223E-4D55-8070-E4DCE79C54A2}|pyroll with overtime\\pyroll with overtime.csproj|solutionrelative:pyroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pyroll with overtime\\pyroll with overtime\\pyroll with overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "pyroll with overtime\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pyroll with overtime\\pyroll with overtime\\pyroll with overtime\\Form1.cs",
+              "RelativeToolTip": "pyroll with overtime\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:02:17.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pyroll with overtime\\pyroll with overtime\\pyroll with overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "pyroll with overtime\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pyroll with overtime\\pyroll with overtime\\pyroll with overtime\\Form1.cs [Design]",
+              "RelativeToolTip": "pyroll with overtime\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:04:47.849Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

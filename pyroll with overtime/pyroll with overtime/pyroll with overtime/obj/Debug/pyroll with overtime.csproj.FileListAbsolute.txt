@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll with overtime.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll_with_overtime.Form1.resources
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll_with_overtime.Properties.Resources.resources
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll with overtime.csproj.GenerateResource.cache
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll with overtime.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\bin\Debug\pyroll with overtime.exe.config
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\bin\Debug\pyroll with overtime.exe
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\bin\Debug\pyroll with overtime.pdb
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll with overtime.exe
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll with overtime.pdb
+C:\Users\PC\Documents\pyroll with overtime\pyroll with overtime\pyroll with overtime\obj\Debug\pyroll with overtime.exe.config
