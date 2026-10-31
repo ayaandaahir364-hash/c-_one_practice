@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\bin\Debug\fileExample.exe.config
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\bin\Debug\fileExample.exe
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\bin\Debug\fileExample.pdb
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.Form1.resources
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.Properties.Resources.resources
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.csproj.GenerateResource.cache
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.exe
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.pdb
+C:\Users\PC\Documents\C#_homework\fileExample\fileExample\obj\Debug\fileExample.exe.config
