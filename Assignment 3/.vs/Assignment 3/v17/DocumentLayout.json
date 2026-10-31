@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\c#_one_practice\\c#_one_practice\\Assignment 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|C:\\Users\\PC\\Documents\\c#_one_practice\\c#_one_practice\\Assignment 3\\assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|C:\\Users\\PC\\Documents\\c#_one_practice\\c#_one_practice\\Assignment 3\\assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|c:\\users\\pc\\documents\\c#_one_practice\\c#_one_practice\\assignment 3\\assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|c:\\users\\pc\\documents\\c#_one_practice\\c#_one_practice\\assignment 3\\assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE3812E0-EC51-4581-B89C-24F9F62DFF07}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\c#_one_practice\\c#_one_practice\\Assignment 3\\Assignment 3\\Form1.cs",
               "RelativeDocumentMoniker": "Assignment 3\\Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\c#_one_practice\\c#_one_practice\\Assignment 3\\Assignment 3\\Form1.cs",
               "RelativeDocumentMoniker": "Assignment 3\\Form1.cs",

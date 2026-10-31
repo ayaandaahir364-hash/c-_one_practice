@@ -61,7 +61,7 @@ namespace pyroll_with_overtime
         {
             txtHours.Clear();
             txtPayrate.Text = " ";
-            lblgrospay.Text = String.Empty;
+            lblgrospay.Text=string.Empty;
 
         }
 
