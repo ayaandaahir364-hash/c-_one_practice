@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\bin\Debug\Software sales.exe.config
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\bin\Debug\Software sales.exe
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\bin\Debug\Software sales.pdb
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software sales.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software_sales.Form1.resources
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software_sales.Properties.Resources.resources
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software sales.csproj.GenerateResource.cache
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software sales.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software sales.exe
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software sales.pdb
+C:\Users\PC\Documents\C#_homework\Software sales\Software sales\obj\Debug\Software sales.exe.config
