@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\bin\Debug\labAssignment.exe.config
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\bin\Debug\labAssignment.exe
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\bin\Debug\labAssignment.pdb
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.Form1.resources
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.Properties.Resources.resources
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.csproj.GenerateResource.cache
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.exe
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.pdb
+C:\Users\PC\Documents\C#_homework\labAssignment\labAssignment\obj\Debug\labAssignment.exe.config
